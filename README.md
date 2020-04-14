@@ -1,1 +1,1 @@
-# frontend-react-redux
+#### Esqueleto básico para começar com Redux em React
